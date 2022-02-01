@@ -1,0 +1,5 @@
+print("Bom dia\n")
+print("Bom dia\n")
+print("Bom dia\n")
+print("Bom dia\n")
+print("Bom dia\n")
